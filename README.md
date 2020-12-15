@@ -1,1 +1,1 @@
-# SBGL-Docs
+# SGLB-Docs
